@@ -46,3 +46,4 @@ build/config/buildinfo.properties
 /inc/.DS_Store
 
 .gitattributes
+/__pycache__
