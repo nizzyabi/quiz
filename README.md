@@ -1,3 +1,2 @@
 # quiz
-"quiz" is fun GK quiz game which contains 10 question each carrying 10 points, where you can try your luck .
-Also my first Repository
+quiz is my very first repositiory on GitHub, it a fun Gk quiz game where you can try your luck
